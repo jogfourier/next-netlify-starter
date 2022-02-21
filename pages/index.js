@@ -73,7 +73,7 @@ export default function Home() {
         <p>
           <label>Pasaporte: <input type="text" name="pasaporte" /></label>
         </p>
-
+        <p>
           <button type="descargar">Descargar</button>
         </p>
       </form>
