@@ -29,18 +29,7 @@ export default function Home() {
           <label>Pasaporte: <input type="text" name="pasaporte" /></label>
         </p>
 
-
-        <p>
-          <label>Your Role: <select name="role[]" multiple>
-            <option value="leader">Leader</option>
-            <option value="follower">Follower</option>
-          </select></label>
-        </p>
-        <p>
-          <label>Message: <textarea name="message"></textarea></label>
-        </p>
-        <p>
-          <button type="descargar">Send</button>
+          <button type="descargar">Descargar</button>
         </p>
       </form>
       </main>
