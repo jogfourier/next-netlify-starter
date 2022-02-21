@@ -5,7 +5,7 @@ import * as React from 'react'
 import {registerSection} from '../components/register-section'
 import pdfMake from 'pdfmake/build/pdfmake'
 
-// I uploaded my font to AWS S3 and set up CORS for it.
+/* I uploaded my font to AWS S3 and set up CORS for it.
 const fonts = {
   yourFontName: {
     normal: 'https://okt.s3.us-west-2.amazonaws.com/ipaexg.ttf',
@@ -46,7 +46,7 @@ function ClientSidePdf() {
 }
 
 export default ClientSidePdf
-
+*/
 export default function Home() {
   return (
     <div className="container">
