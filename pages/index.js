@@ -2,8 +2,8 @@ import Head from 'next/head'
 import Header from '@components/Header'
 import Footer from '@components/Footer'
 import * as React from 'react'
-import {registerSection} from '../components/register-section'
-import pdfMake from 'pdfmake/build/pdfmake'
+//import {registerSection} from '../components/register-section'
+//import pdfMake from 'pdfmake/build/pdfmake'
 
 /* I uploaded my font to AWS S3 and set up CORS for it.
 const fonts = {
