@@ -95,7 +95,7 @@ export default function Home() {
                 li.textContent = `name: ${name}, type: ${type}, size: ${size}`;
                 output.appendChild(li);
               }
-            }); 
+            })
           }
         </script>
 
