@@ -84,7 +84,8 @@ export default function Home() {
         <ul id="output"></ul>
         <script>
           const output = document.getElementById('output');
-
+          const fileList = event.target.files;
+          console.log(fileList);
          
         </script>
 
