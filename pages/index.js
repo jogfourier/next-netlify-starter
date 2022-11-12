@@ -77,7 +77,7 @@ export default function Home() {
           <button type="descargar">Descargar</button>
         </p>
 
-        <input type="file" id="file-selector" accept=".jpg, .jpeg, .png" multiple/>
+        <input type="file" id="file-selector" accept=".xml" multiple/>
         <ul id="output"></ul>
         
 
