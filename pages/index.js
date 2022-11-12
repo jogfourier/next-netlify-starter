@@ -76,6 +76,12 @@ export default function Home() {
         <p>
           <button type="descargar">Descargar</button>
         </p>
+
+        <input type="file" id="file-selector" accept=".jpg, .jpeg, .png" multiple/>
+        <ul id="output"></ul>
+        
+
+
       </form>
       </main>
 
@@ -83,3 +89,5 @@ export default function Home() {
     </div>
   )
 }
+
+
